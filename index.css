@@ -1,0 +1,49 @@
+
+html{
+    text-align: center;
+    background-color: black;
+}
+.inicio{
+    font-family: Bradley Hand, cursive;
+    font-size: 40px;
+    background-color:black;
+    color:white;
+    padding: 10px 10px 10px 10px;
+    
+}
+#alinhamento{
+    display: flex;
+    background-color:black;
+    padding: 50px 50px 50px 200px;
+    position:relative;
+}
+
+.card-title{
+    color:	#1E90FF;
+
+
+}
+.ladoalado{
+    margin: 15px;
+    font-family: Bradley Hand, cursive ;
+    color: white;
+}
+.segundaparte{
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+}
+
+h3{
+    font-family: Bradley Hand, cursive ;
+}
+
+.card-body{
+    background-color:#363636;
+}
+
+#botao{
+    margin-top: 56px;
+}
+#botao1{
+    margin-top: 48px;
+}
